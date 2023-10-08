@@ -29,4 +29,4 @@ This Android app is a Tic Tac Toe game developed using the Kotlin programming la
 ## Demo
 [Tictactoe-clip.webm](https://github.com/Sosnox/sf333as2/assets/86417460/16ee4e60-95b4-4aab-829f-90bd35a59287)
 
-Please replace `[Your Name]`, `[GitHub Profile]`, and `[your-github-link]` with your information, and `[your-demo-link]` with the link to your GitHub repository containing the Tic Tac Toe game. This README provides an overview of the game, how to play it, and credits to the team members.
+
