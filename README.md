@@ -1,6 +1,6 @@
 [Tictactoe-clip.webm](https://github.com/Sosnox/sf333as2/assets/86417460/43cd154f-df00-4015-923c-607dab6d85d0)# sf333as2
 # SF333_As2-Tic_Tac_Toe
-Sure, here's the information translated into English for your GitHub README.md:
+
 
 # Tic Tac Toe Game (sf333as2)
 
