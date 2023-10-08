@@ -21,9 +21,9 @@ This Android app is a Tic Tac Toe game developed using the Kotlin programming la
 5. If the game ends, a "Play Again" button will appear, allowing you to restart the game.
 
 ## Team Members
-  -Nutchapon Kitkram (ID: 6410742156)
-  
-  -Inthat Sriphao (ID: 6410742750)
+
+1. **Nutchapon Kitkram** (ID: 6410742156)
+2. **Inthat Sriphao** (ID: 6410742750)
 
 ## Demo
 [Tictactoe-clip.webm](https://github.com/Sosnox/sf333as2/assets/86417460/16ee4e60-95b4-4aab-829f-90bd35a59287)
